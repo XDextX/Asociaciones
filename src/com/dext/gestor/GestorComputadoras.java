@@ -1,4 +1,5 @@
 package com.dext.gestor;
+import com.dext.gestor.Gestor;
 
 public class GestorComputadoras extends Gestor {
     public GestorComputadoras() {
